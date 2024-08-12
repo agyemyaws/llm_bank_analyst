@@ -8,7 +8,7 @@ INSERT INTO Customers (
     InternationalTransactionIndicator, VATUserStatus, TotalVATRefundAmount, DeviceModel, 
     AppVersion, RecentActivityFlag, PreferredLanguage, Delivery, PlasticCard
 ) VALUES
-('JohnWelch0', 'John', 'Welch', 'Male', 'fmaldonado@example.net', '(498)556-1836', 35, 'JacksonvilleHouston', 'United States', 6369.28, 'USD', 877, 17481.09, 10680.82, 237.69, 304.47, '2024-05-31', 'SMS', 3849.82, 5428.23, 25.16, 4, 'Active', 'Medium', 'Yes', 'No', 128, 'No', 129.46, 'Samsung Galaxy S21', 'v4.4', 'No', 'English', 63.57, 'Visa Gold');
+('JohnWelch0', 'John', 'Welch', 'Male', 'fmaldonado@example.net', '(498)556-1835', 35, 'JacksonvilleHouston', 'United States', 6369.28, 'USD', 877, 17481.09, 10680.82, 237.69, 304.47, '2024-05-31', 'SMS', 3849.82, 5428.23, 25.16, 4, 'Active', 'Medium', 'Yes', 'No', 128, 'No', 129.46, 'Samsung Galaxy S21', 'v4.4', 'No', 'English', 63.57, 'Visa Gold');
 
 INSERT INTO Customers (
     CustomerID, FirstName, LastName, Gender, Email, Phone, Age, City, Country,
